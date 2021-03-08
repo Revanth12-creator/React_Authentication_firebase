@@ -1,0 +1,27 @@
+div .navbar-brand{
+    font-size: 20px !important;
+}
+.Logo{
+    margin-left: 59px;
+    margin-top: -4px;
+    width: 49px;
+    border-radius: 3px;
+}
+.navbar-nav li a{
+    font-size: 18px;
+    font-weight: 600;
+}
+nav{
+    box-shadow: 3px 3px 3px 0px;
+}
+.navbar-nav li img{
+    width: 36px;
+    border-radius: 30px;
+    margin-top: 5px;
+}
+.navbar-nav li h6{
+    margin-top: 10px;
+    margin-right: 8px;
+    color: dimgray;
+
+}

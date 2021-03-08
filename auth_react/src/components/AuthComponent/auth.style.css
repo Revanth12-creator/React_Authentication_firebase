@@ -1,0 +1,38 @@
+#LoginComponent{
+    background-image: url('./login1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 43rem;
+    margin-top: -43px;
+} 
+
+#RegisterComp{
+    background-image: url('./login1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 43rem;
+    margin-top: -43px;
+}
+.card h1{
+    color: darkslategrey;
+    font-weight: 700;
+    font-size:35px;
+}
+.card{
+    background-color: initial !important;
+}
+form label{
+    font-size: 20px !important;
+    font-weight: 600;
+}
+form p{
+    font-size: 16px !important;
+    font-weight: 700;
+    color: rgb(15, 17, 19);
+}
+form input{
+    background-color: whitesmoke!important;
+}
+.forgot{
+    margin-left: 180px;
+}

@@ -1,0 +1,17 @@
+.div1 h1{
+    color: red;
+    font-size: 73px;
+    font-weight: 900;
+    margin-left: 50px;
+   
+}
+.div1 h3{
+    color: black;
+    font-size: 40px;
+    font-weight: 300;
+}
+
+.div1{
+    margin-left: 700px;
+    margin-top: 100px;
+}

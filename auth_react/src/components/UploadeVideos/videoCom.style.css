@@ -1,0 +1,11 @@
+.videoList{
+    width: 100%;
+    
+    
+}
+.videoList video{
+    width: 30%;
+    height: 448px;
+    float: left;
+    margin-left: 37px;
+}
